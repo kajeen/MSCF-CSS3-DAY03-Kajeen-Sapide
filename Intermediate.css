@@ -1,0 +1,44 @@
+*{
+	margin: 0;
+}
+.childDiv{
+	margin-left: 15px;
+}
+.flex { 
+  display : flex;
+  justify-content: space-between;
+}
+.divtopBorderTitle{
+	
+	border-top: solid 2px black;
+}
+.divtopBorder{
+	border-top: solid 2px gray;
+
+}
+.LargeLine{
+	
+	border: solid 8px black;
+}
+.MittelLine{
+	
+	border: solid 3px black;
+}
+.thinLine{
+	
+	border: solid 1px black;
+}
+
+body{
+	text-align: center;
+}
+.container{
+	padding: 0px 10px 10px 10px;
+	border: solid 1px black;
+	width: 500px;
+	text-align: left;
+
+}
+p{
+	text-align: right;
+}
