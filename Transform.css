@@ -43,10 +43,6 @@ a{
 	text-decoration: none;
 	color: white;
 }
-main{
-	margin: 0 auto;
-	padding: 200px;
-}
 
 .mittel{
 	display: flex;
@@ -54,9 +50,12 @@ main{
 	background-color: white;
 	min-height: 500px;
 }
-.home{
-	text-align: center;
+
+main{
+	margin: 0 auto;
+	padding: 200px;
 }
+
 
 footer{
     background-color: #97D5E0;
